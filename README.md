@@ -22,7 +22,7 @@ A modern and responsive fitness website designed to inspire a healthy lifestyle,
 ## 🚀 Demo
 
 <a href="https://nishchalacharya.com.np/webathon/madan_bhandari_pashupati/" target="_blank">
-  <img src="assets/viewdemo.png" alt="View Live Demo" style="width: 200px; height: auto;"/>
+  <img src="assets/viewdemo.png" alt="View Live Demo" style="width: 150px; height: auto;"/>
 </a>
 
 Experience the website live and explore its features.
