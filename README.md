@@ -21,7 +21,10 @@ A modern and responsive fitness website designed to inspire a healthy lifestyle,
 
 ## 🚀 Demo
 
-[**View Live Demo**](https://nishchalacharya.com.np/webathon/madan_bhandari_pashupati/)  
+<a href="https://nishchalacharya.com.np/webathon/madan_bhandari_pashupati/" target="_blank">
+  <img src="assets/viewdemo.png" alt="View Live Demo" />
+</a>
+
 Experience the website live and explore its features.
 
 ## 🛠️ Technologies Used
@@ -42,6 +45,7 @@ Experience the website live and explore its features.
 │   ├── about2.jpg
 │   ├── hero-section.png
 │   ├── bannerimg.png
+│   ├── viewdemo.png
 │   └── logo.png
 ├── .gitignore            # Git ignore file
 └── README.md             # Project documentation
