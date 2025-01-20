@@ -1,7 +1,7 @@
 
 # Fitness Website
 
-![Fitness Website Banner](assets/banner.png)  
+![Fitness Website Banner](assets/bannerimg.png)  
 A modern and responsive fitness website designed to inspire a healthy lifestyle, provide workout routines, and offer membership options.
 
 <p align="center">
@@ -41,7 +41,7 @@ Experience the website live and explore its features.
 │   ├── about1.jpg
 │   ├── about2.jpg
 │   ├── hero-section.png
-│   ├── banner.png
+│   ├── bannerimg.png
 │   └── logo.png
 ├── .gitignore            # Git ignore file
 └── README.md             # Project documentation
