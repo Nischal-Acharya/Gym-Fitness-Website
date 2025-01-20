@@ -1,7 +1,7 @@
 
 # Fitness Website
 
-![Fitness Website Banner](https://via.placeholder.com/1200x400?text=Fitness+Website)  
+![Fitness Website Banner](assects/banner.png)  
 A modern and responsive fitness website designed to inspire a healthy lifestyle, provide workout routines, and offer membership options.
 
 <p align="center">
@@ -23,23 +23,6 @@ A modern and responsive fitness website designed to inspire a healthy lifestyle,
 
 [**View Live Demo**](https://nishchalacharya.com.np/webathon/madan_bhandari_pashupati/)  
 Experience the website live and explore its features.
-
-## 📸 Screenshots
-
-### Homepage
-![Homepage Screenshot](https://via.placeholder.com/800x400?text=Homepage+Screenshot)
-
-### About Us
-![About Us Screenshot](https://via.placeholder.com/800x400?text=About+Us+Screenshot)
-
-### Features
-![Features Screenshot](https://via.placeholder.com/800x400?text=Features+Screenshot)
-
-### Membership
-![Membership Screenshot](https://via.placeholder.com/800x400?text=Membership+Screenshot)
-
-### Contact
-![Contact Screenshot](https://via.placeholder.com/800x400?text=Contact+Screenshot)
 
 ## 🛠️ Technologies Used
 
