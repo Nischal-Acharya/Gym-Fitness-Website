@@ -1,7 +1,7 @@
 
 # Fitness Website
 
-![Fitness Website Banner](assects/banner.png)  
+![Fitness Website Banner](assets/banner.png)  
 A modern and responsive fitness website designed to inspire a healthy lifestyle, provide workout routines, and offer membership options.
 
 <p align="center">
