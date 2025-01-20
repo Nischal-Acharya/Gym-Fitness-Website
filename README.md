@@ -41,6 +41,7 @@ Experience the website live and explore its features.
 │   ├── about1.jpg
 │   ├── about2.jpg
 │   ├── hero-section.png
+│   ├── banner.png
 │   └── logo.png
 ├── .gitignore            # Git ignore file
 └── README.md             # Project documentation
