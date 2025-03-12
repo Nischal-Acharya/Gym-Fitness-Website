@@ -13,11 +13,11 @@ A modern and responsive fitness website designed to inspire a healthy lifestyle,
 
 ## 🌟 Sections
 
-- 🏠 **Home**: Welcoming users with an attractive hero section.
-- 👥 **About Us**: Information about the website's mission and vision.
-- ✨ **Features**: Highlighting unique offerings like workout plans and progress tracking.
-- 🏋️‍♂️ **Membership**: Various plans tailored for different fitness needs.
-- 📞 **Contact**: Reach out for inquiries or support.
+-  **Home**: Welcoming users with an attractive hero section.
+-  **About Us**: Information about the website's mission and vision.
+-  **Features**: Highlighting unique offerings like workout plans and progress tracking.
+-  **Membership**: Various plans tailored for different fitness needs.
+-  **Contact**: Reach out for inquiries or support.
 
 ## 🚀 Demo
 
